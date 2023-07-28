@@ -1,0 +1,8 @@
+The bootloader and app firmware in openSDA2 is developed by community at mbed.org and  it is known as "CMSIS-DAP Interface Firmware"
+
+
+CMSIS-DAP can be ported to other hardware
+but
+combination of k20mcu and CMSIS-DAP firmware is called openSDAv2
+
+RESET_ISR >> 1d4
